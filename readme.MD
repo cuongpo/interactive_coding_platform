@@ -1,0 +1,1 @@
+npx mocha MyContract.test.js
